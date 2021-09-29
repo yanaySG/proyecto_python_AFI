@@ -1,1 +1,1 @@
-## Práctica de programación en Python Máster AFI
+## Programación en Python para Data Science. Máster AFI
